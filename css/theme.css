@@ -1,0 +1,9 @@
+:root{
+    --font-color: #fff;
+    --font-shadow-color: #1c1f21;
+}
+
+html[data-theme='dark']{
+    --font-color: #000;
+    --font-shadow-color: #1c1f21;
+}
